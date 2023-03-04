@@ -58,3 +58,24 @@ section{
 .hello{
     text-align: center;
 }
+.hi{
+    text-decoration: none;
+    background-color: #ff0066;
+    padding: 30px 50px;
+}
+.box{
+
+    width: 450px;
+    padding: 40px 170px ;
+    margin: 100px;
+    text-align: center;
+    background-color: #ff0066;
+    border-radius: 10px;
+    color: white;
+}
+#last{
+    background-image: url("Image/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
